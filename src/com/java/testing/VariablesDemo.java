@@ -35,6 +35,8 @@ public class VariablesDemo {
        */
 
        //Example 5 - in single statement we define multiple variables
+
+        /*
         int a = 100,b = 200,c = 300;
 
         System.out.println("the value of a is "+a);
@@ -42,6 +44,11 @@ public class VariablesDemo {
         System.out.println("the value of c is "+c);
 
         System.out.println(a+" "+b+" "+c);
+
+         */
+
+
+
 
 
 
