@@ -39,7 +39,7 @@ public class DataTypesDemo {
 
         //String
         String name = "john";
-        System.out.println();
+        System.out.println(name);
 
 
 
